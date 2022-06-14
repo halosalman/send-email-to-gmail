@@ -11,5 +11,5 @@ if($email!=NULL){
     mail($to,$subject,$txt,$headers);
 }
 //redirect
-header("Location:C:\Users\Yuosaf\Downloads\1646577084_phpmail\phpmail\thankyou.html");
+header("Location:https://raw.githack.com/halosalman/send-email-to-gmail/main/thankyou.html");
 ?>
